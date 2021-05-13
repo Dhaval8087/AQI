@@ -1,1 +1,1 @@
-export const WS_BASE = "ws://city-ws.herokuapp.com/"
+export const WS_BASE = "wss://city-ws.herokuapp.com/"

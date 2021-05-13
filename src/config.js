@@ -1,0 +1,1 @@
+export const WS_BASE = "ws://city-ws.herokuapp.com/"

@@ -2,7 +2,6 @@
     (AQM) - Air Quality Monitoring App
 </h1>
 
-# (AQM) - AIR QUALITY MONITORING APP
 
 This app is intended to check the air quality of different cities.
 
